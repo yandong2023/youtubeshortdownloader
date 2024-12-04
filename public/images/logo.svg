@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="200" height="40" viewBox="0 0 200 40" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <path d="M20 10C20 7.79086 21.7909 6 24 6H36C38.2091 6 40 7.79086 40 10V30C40 32.2091 38.2091 34 36 34H24C21.7909 34 20 32.2091 20 30V10Z" fill="#FF0000"/>
+    <path d="M32 20L26 24V16L32 20Z" fill="white"/>
+    <text x="45" y="25" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#1A1A1A">Shorts Downloader</text>
+</svg>
